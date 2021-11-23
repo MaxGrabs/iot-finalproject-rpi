@@ -11,6 +11,9 @@ sudo pip3 install --upgrade setuptools
 pip3 install the following things:
 
 pip install mysql-connector-python
+
 pip install schedule
+
 pip3 install adafruit-circuitpython-dht
+
 sudo apt-get install libgpiod2
