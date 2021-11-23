@@ -8,7 +8,7 @@ sudo apt-get install python3-pip
 
 sudo pip3 install --upgrade setuptools
 
-pip3 install the following things:
+
 
 pip install mysql-connector-python
 
