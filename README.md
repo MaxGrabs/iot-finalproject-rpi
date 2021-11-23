@@ -1,2 +1,16 @@
 # iot-finalproject-rpi
-py code for the r-pi
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get install python3-pip
+
+sudo pip3 install --upgrade setuptools
+
+pip3 install the following things:
+
+pip install mysql-connector-python
+pip install schedule
+pip3 install adafruit-circuitpython-dht
+sudo apt-get install libgpiod2
